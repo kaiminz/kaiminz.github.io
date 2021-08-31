@@ -245,9 +245,9 @@
       style: basic
       url: https://cn.udacity.com/
 
-    - name: 云英语
+    - name: 赞美诗
       style: black
-      url: https://www.y-english.org/
+      url: https://www.zanmeishi.com/
 
   - name: 娱乐
     links:
@@ -334,11 +334,11 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name:  校园
     links:
-    - name: 北邮官网
+    - name: 官网
       style: basic
-      url: https://www.bupt.edu.cn/
+      url: https://www.cjlu.edu.cn/
 
     - name: 本科教务系统
       style: basic
@@ -392,15 +392,15 @@
       style: basic
       url: http://buptclass.com/
 
-  - name: 校园助手
+  - name: 典藏
     links:
-    - name: 空余教室查询
+    - name: 阿里云
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
-
-    - name: 辅修专业
+      url: http://aliyundrive.com/
+      
+    - name: 李劼
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: http://blog.bnn.co/hero/lijie/
 
     - name: 毕业设计
       style: basic
@@ -454,7 +454,7 @@
       style: basic
       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
-  - name: 论坛相关
+  - name: 杂项
     links:
     - name: 北邮人论坛
       style: teal
@@ -494,6 +494,6 @@
       style: basic
       url: http://bbs.byr.cn/#!vote
 
-    - name: 玩转论坛指南
+    - name: apkmirror
       style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
+      url: https://wwww.apkmirror.com
