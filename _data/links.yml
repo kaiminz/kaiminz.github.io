@@ -336,13 +336,13 @@
 - categories:
   - name:  校园
     links:
-    - name: 官网
+    - name: 计量官网
       style: basic
       url: https://www.cjlu.edu.cn/
 
-    - name: 本科教务系统
+    - name: 教务系统
       style: basic
-      url: https://jwgl.bupt.edu.cn/jsxsd/
+      url: https://jwxt.cjlu.edu.cn/xtgl/login_slogin.html
 
     - name: 研究生教务系统
       style: basic
@@ -368,9 +368,9 @@
       style: basic
       url: http://my.bupt.edu.cn/
 
-    - name: 图书馆
+    - name: Box
       style: basic
-      url: http://lib.bupt.edu.cn/
+      url: https://account.box.com/login
 
     - name: 北邮贴吧
       style: basic
@@ -384,13 +384,13 @@
       style: basic
       url: http://mail.bupt.edu.cn/
 
-    - name: VPN服务
+    - name: Whoer
       style: basic
-      url: https://nic.bupt.edu.cn/list/list.php?p=5_13_1
+      url: https://whoer.net/zh
 
-    - name: 空闲自习室查询
+    - name: 脚本大全
       style: basic
-      url: http://buptclass.com/
+      url: https://greasyfork.org/zh-CN
 
   - name: 典藏
     links:
@@ -402,29 +402,29 @@
       style: basic
       url: http://blog.bnn.co/hero/lijie/
 
-    - name: 毕业设计
+    - name: ACL4
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: https://acl4ssr.netlify.app/
 
-    - name: 学生校际选修
+    - name: onedrive直链
       style: basic
-      url: http://www.xueyuanlu.cn/
+      url: https://onedrive.gimhoy.com/
 
     - name: 创新学分
       style: basic
       url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
 
-    - name: 课表查询
+    - name: 知网1
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
+      url: http://zgjldx.check.cnki.net/
 
-    - name: 考表查询
+    - name: 知网2
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
-
-    - name: 出国成绩单办理
+      url: http://check7.cnki.net/pmlc/
+    
+    - name: CSDN
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+      url: https://www.csdn.net/
 
     - name: 教学事务流程
       style: basic
@@ -434,21 +434,21 @@
       style: basic
       url: http://cslab.bupt.edu.cn/innovation/
 
-    - name: 申请护照通行证
+    - name: 云梦站
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: https://www.htcp.net/
 
-    - name: 补办学生证
+    - name: 博谈网
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: http://botanwang.com/content/
 
-    - name: 校园一卡通
+    - name: 天翼云
       style: basic
-      url: http://ecard.bupt.edu.cn/
+      url: https://h5.cloud.189.cn/home.html
 
-    - name: 办公电话
+    - name: chrome店
       style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
+      url: https://chrome.google.com/webstore/category/extensions
 
     - name: 校历
       style: basic
@@ -464,18 +464,18 @@
       style: basic
       url: http://bbs.cloud.icybee.cn/
 
-    - name: 检索论坛内容
+    - name: 搜图色
       style: basic
-      url: http://search.icybee.cn/
+      url: https://www.sojson.com/web/img.html
 
-    - name: 检索用户发帖
+    - name: 微软
       style: basic
-      url: http://search.lovezxp.com/
+      url: https://outlook.live.com/owa/
 
-    - name: 查看论坛数据
+    - name: Teracloud
       style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
-
+      url: https://teracloud.jp/en/modules/mypage/usage/
+      
     - name: 论坛APP
       icon: app store
       style: black
@@ -486,13 +486,13 @@
       style: black
       url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
 
-    - name: 论坛官方微博
+    - name: 福音中国
       style: basic
-      url: http://weibo.com/byrbbs
+      url: http://pt.fuyinchina.com/m/
 
-    - name: 论坛投票区
+    - name: knavi
       style: basic
-      url: http://bbs.byr.cn/#!vote
+      url: http://zhukm.github.io/
 
     - name: apkmirror
       style: basic
