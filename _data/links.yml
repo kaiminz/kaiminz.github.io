@@ -1,5 +1,5 @@
 - categories:
-  - name: 购物
+  - name: 购 物
     links:
     - name: 淘宝
       style: orange
@@ -71,7 +71,7 @@
       style: brown
       url: https://xiaomiyoupin.com/
 
-  - name: 工具
+  - name: 工 具
     links:
     - name: '12306'
       icon: train red
@@ -140,7 +140,7 @@
       style: basic
       url: https://macwk.com/
 
-  - name: 社交
+  - name: 社 交
     links:
     - name: 微博
       icon: weibo red
@@ -197,7 +197,7 @@
       style: basic
       url: https://www.linkedin.com/
 
-  - name: 学习
+  - name: 学 习
     links:
     - name: Coursera
       style: basic
@@ -249,7 +249,7 @@
       style: black
       url: https://www.zanmeishi.com/
 
-  - name: 娱乐
+  - name: 娱 乐
     links:
     - name: 优酷
       style: basic
@@ -334,7 +334,7 @@
       url: https://douyu.com/
 
 - categories:
-  - name:  校园
+  - name:  校 园
     links:
     - name: 计量官网
       style: basic
@@ -344,45 +344,45 @@
       style: basic
       url: https://jwxt.cjlu.edu.cn/xtgl/login_slogin.html
 
-    - name: 研究生教务系统
-      style: basic
-      url: http://yjxt.bupt.edu.cn/
+    - name: 经管教务
+      style: purple
+      url: http://emtdms.cjlu.edu.cn/
 
-    - name: 教务处
-      style: basic
-      url: http://jwc.bupt.edu.cn/
-
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
-
-    - name: 北邮人BT
+    - name: OSCHINA
       style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+      url: https://tool.oschina.net/
 
-    - name: 北邮IPTV
+    - name: MSD我告诉你
       style: basic
-      url: http://tv.byr.cn/
+      url: https://msdn.itellyou.cn/
+
+    - name: cjlu邮箱
+      style: blue
+      url: https://mail.cjlu.edu.cn/
+
+    - name: 图书馆
+      style: tint
+      url: https://lib.cjlu.edu.cn/
 
     - name: 信息门户
       style: basic
       url: http://my.bupt.edu.cn/
 
     - name: Box
-      style: basic
+      style: yellow
       url: https://account.box.com/login
 
-    - name: 北邮贴吧
+    - name: 校历
       style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
+      url: https://www.cjlu.edu.cn/xxfw1/xxxl.htm
 
-    - name: 校园网
+    - name: iCloud
       style: basic
-      url: http://nic.bupt.edu.cn/
+      url: https://www.icloud.com/
 
-    - name: 北邮邮箱
-      style: basic
-      url: http://mail.bupt.edu.cn/
+    - name: yeah邮箱
+      style: orange
+      url: http://mail.yeah.net/
 
     - name: Whoer
       style: basic
@@ -392,7 +392,7 @@
       style: basic
       url: https://greasyfork.org/zh-CN
 
-  - name: 典藏
+  - name: 典 藏
     links:
     - name: 阿里云
       style: basic
@@ -410,9 +410,9 @@
       style: basic
       url: https://onedrive.gimhoy.com/
 
-    - name: 创新学分
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+    - name: Google导出
+      style: red
+      url: https://takeout.google.com/?pli=1
 
     - name: 知网1
       style: basic
@@ -426,16 +426,16 @@
       style: basic
       url: https://www.csdn.net/
 
-    - name: 教学事务流程
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+    - name: 异星空间
+      style: grey
+      url: http://www.yxssp.com/
 
-    - name: 创新实践平台
+    - name: 一个木函
       style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
-
+      url: https://web.woobx.cn/
+      
     - name: 云梦站
-      style: basic
+      style: pink
       url: https://www.htcp.net/
 
     - name: 博谈网
@@ -443,20 +443,20 @@
       url: http://botanwang.com/content/
 
     - name: 天翼云
-      style: basic
+      style: blue
       url: https://h5.cloud.189.cn/home.html
 
     - name: chrome店
       style: basic
       url: https://chrome.google.com/webstore/category/extensions
 
-    - name: 校历
+    - name: 423down
       style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+      url: https://www.423down.com/
 
   - name: 杂项
     links:
-    - name: 北邮人论坛
+    - name: 北邮论坛
       style: teal
       url: http://bbs.byr.cn/
 
@@ -464,7 +464,7 @@
       style: basic
       url: http://bbs.cloud.icybee.cn/
 
-    - name: 搜图色
+    - name: 传图识色
       style: basic
       url: https://www.sojson.com/web/img.html
 
@@ -494,6 +494,6 @@
       style: basic
       url: http://zhukm.github.io/
 
-    - name: apkmirror
-      style: basic
+    - name: Apkmirror
+      style: orange
       url: https://wwww.apkmirror.com
