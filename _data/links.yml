@@ -361,7 +361,7 @@
       url: https://mail.cjlu.edu.cn/
 
     - name: 图书馆
-      style: tint
+      style: brown
       url: https://lib.cjlu.edu.cn/
 
     - name: 知网1
@@ -395,7 +395,7 @@
   - name: 典 藏
     links:
     - name: 阿里云
-      style: indigo
+      style: blue
       url: http://aliyundrive.com/
       
     - name: 李劼
@@ -473,7 +473,7 @@
       url: https://outlook.live.com/owa/
 
     - name: Teracloud
-      style: gold
+      style: yellow
       url: https://teracloud.jp/en/modules/mypage/usage/
       
     - name: 论坛APP
