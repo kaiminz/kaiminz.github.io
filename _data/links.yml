@@ -456,9 +456,9 @@
 
   - name: 杂 项
     links:
-    - name: 北邮论坛
+    - name: 今日热榜
       style: teal
-      url: http://bbs.byr.cn/
+      url: http://tophub.today/
 
     - name: 游客版论坛
       style: basic
