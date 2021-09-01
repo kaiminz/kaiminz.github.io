@@ -1,26 +1,26 @@
 <div class="ui inverted vertical footer segment">
     <div class="ui container">
         <div class="ui stackable inverted divided equal height stackable grid">
-            <div class="three wide column">
+            <div class="one wide column">
                 <h4 class="ui inverted header">Built with</h4>
                 <div class="ui inverted link list">
                     {% for item in site.data.built_with %}<a class="item" href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endfor %}
                 </div>
             </div>
-            <div class="three wide column">
+            <div class="one wide column">
                 <h4 class="ui inverted header">Powered by</h4>
                 <div class="ui inverted link list">
                     {% for item in site.data.powered_by %}<a class="item" href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endfor %}
                 </div>
             </div>
-            <div class="three wide column">
+            <div class="one wide column">
                 <h4 class="ui inverted header">About</h4>
                 <div class="ui inverted link list">
                     <a class="item" href="{{ site.author_url }}" target="_blank">{{ site.author }}</a>
                     <a class="item" href="{{ site.organization_url }}" target="_blank">{{ site.organization }}</a>
                 </div>
             </div>
-            <div class="seven wide column">
+            <div class="one wide column">
                 <h4 class="ui inverted header">{{ site.title }}</h4>
                 <div class="ui inverted link list">
                     <div class="item">&copy; {{ site.time | date: "%Y" }} {{ site.organization }}</div>
