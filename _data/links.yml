@@ -152,10 +152,10 @@
       style: basic
       url: https://wx.qq.com/
 
-    - name: 百度贴吧
-      icon: paw blue
+    - name: 推特
+      icon: twitter blue
       style: basic
-      url: https://tieba.baidu.com/
+      url: https://www.twitter.com/
 
     - name: 知乎
       icon: zhihu blue
@@ -337,7 +337,7 @@
   - name:  校 园
     links:
     - name: 计量官网
-      style: basic
+      style: green
       url: https://www.cjlu.edu.cn/
 
     - name: 教务系统
@@ -364,14 +364,14 @@
       style: tint
       url: https://lib.cjlu.edu.cn/
 
-    - name: 信息门户
+    - name: 知网1
       style: basic
-      url: http://my.bupt.edu.cn/
+      url: http://zgjldx.check.cnki.net/
 
-    - name: Box
+    - name: 知网2
       style: yellow
-      url: https://account.box.com/login
-
+      url: http://check7.cnki.net/pmlc/
+      
     - name: 校历
       style: basic
       url: https://www.cjlu.edu.cn/xxfw1/xxxl.htm
@@ -414,13 +414,13 @@
       style: red
       url: https://takeout.google.com/?pli=1
 
-    - name: 知网1
+    - name: KiwiAPK
       style: basic
-      url: http://zgjldx.check.cnki.net/
+      url: http://github.com/kiwibrowser/src.next/releases/
 
-    - name: 知网2
+    - name: BOX
       style: basic
-      url: http://check7.cnki.net/pmlc/
+      url: https://account.box.com/login
     
     - name: CSDN
       style: basic
@@ -446,7 +446,7 @@
       style: blue
       url: https://h5.cloud.189.cn/home.html
 
-    - name: chrome店
+    - name: Chrome商店
       style: basic
       url: https://chrome.google.com/webstore/category/extensions
 
@@ -454,7 +454,7 @@
       style: basic
       url: https://www.423down.com/
 
-  - name: 杂项
+  - name: 杂 项
     links:
     - name: 北邮论坛
       style: teal
@@ -473,7 +473,7 @@
       url: https://outlook.live.com/owa/
 
     - name: Teracloud
-      style: basic
+      style: golden
       url: https://teracloud.jp/en/modules/mypage/usage/
       
     - name: 论坛APP
@@ -490,8 +490,8 @@
       style: basic
       url: http://pt.fuyinchina.com/m/
 
-    - name: knavi
-      style: basic
+    - name: Knavi
+      style: grey
       url: http://zhukm.github.io/
 
     - name: Apkmirror
