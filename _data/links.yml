@@ -23,9 +23,9 @@
       icon: apple grey
       url: https://www.apple.com/
 
-    - name: 一号店
+    - name: 拼多多
       style: basic
-      url: https://www.yhd.com/
+      url: https://m.pinduoduo.com
 
     - name: 当当
       style: basic
