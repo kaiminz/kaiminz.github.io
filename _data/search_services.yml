@@ -347,7 +347,7 @@
 
 - id: startpage
   name: startpage
-  url: https://startpage.com/sp/search/{query}
+  url: https://startpage.com/do/search?q={query}
   shortcut:
     icon: comments red inverted
     style: black
