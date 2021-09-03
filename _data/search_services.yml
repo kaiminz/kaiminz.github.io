@@ -345,17 +345,17 @@
     style: black
     show: false
 
-- id: byrsearch
-  name: 北邮人论坛1
-  url: http://123.207.168.11/byrbbs/?key={query}
+- id: startpage
+  name: startpage
+  url: https://startpage.com/do/search/{query}
   shortcut:
     icon: comments red inverted
     style: black
     show: false
 
-- id: icysearch
-  name: 北邮人论坛2
-  url: http://search.icybee.cn/bbs/?key={query}
+- id: qwant
+  name: qwant
+  url: https://www.qwant.com/key={query}
   shortcut:
     icon: comments blue inverted
     style: black
