@@ -347,7 +347,7 @@
 
 - id: startpage
   name: startpage
-  url: https://startpage.com/do/search/{query}
+  url: https://startpage.com/do/?q={query}
   shortcut:
     icon: comments red inverted
     style: black
@@ -355,7 +355,7 @@
 
 - id: qwant
   name: qwant
-  url: https://www.qwant.com/key={query}
+  url: https://www.qwant.com/search?q={query}
   shortcut:
     icon: comments blue inverted
     style: black
