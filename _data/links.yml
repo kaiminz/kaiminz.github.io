@@ -398,7 +398,7 @@
       style: blue
       url: https://www.aliyundrive.com/sign/in
       
-    - name: 李劼
+    - name: 李劼文集
       style: basic
       url: http://blog.bnn.co/hero/lijie/
 
@@ -434,7 +434,7 @@
       style: basic
       url: https://web.woobx.cn/
       
-    - name: 云梦站
+    - name: 云梦小站
       style: pink
       url: https://www.htcp.net/
 
@@ -468,7 +468,7 @@
       style: basic
       url: https://www.sojson.com/web/img.html
 
-    - name: 微软
+    - name: 微软邮箱📬
       style: basic
       url: https://outlook.live.com/owa/
 
@@ -497,3 +497,11 @@
     - name: Apkmirror
       style: orange
       url: https://www.apkmirror.com
+      
+    - name: 刘晓波文集
+
+      style: basic
+
+      url: https://blog.bnn.co/hero/liuxb/
+
+  
