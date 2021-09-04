@@ -290,7 +290,7 @@
 
     - name: 虾米
       style: orange
-      url: https://xiami.com/
+      url: https://www.xiami.com
 
     - name: 豆瓣电影
       icon: film blue
