@@ -353,7 +353,7 @@
     style: black
     show: false
 
-- id: qwant
+- id: Qwant
   name: qwant
   url: https://www.qwant.com/?q={query}
   shortcut:
@@ -361,9 +361,9 @@
     style: black
     show: false
 
-- id: byrbt
-  name: 北邮人BT
-  url: https://bt.byr.cn/torrents.php?search={query}
+- id: duckduckgo
+  name: DuckDuckgo
+  url: https://duckduckgo.com/?q={query}
   shortcut:
     icon: cloud download alternate teal inverted
     style: black
