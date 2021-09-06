@@ -25,6 +25,7 @@
 
     - name: 拼多多
       style: basic
+      icon: pinduoduo 
       url: https://m.pinduoduo.com
 
     - name: 当当
@@ -245,7 +246,7 @@
       style: basic
       url: https://cn.udacity.com/
 
-    - name: 赞美诗
+    - name: 💒赞美诗
       style: black
       url: https://www.zanmeishi.com/
 
@@ -401,6 +402,12 @@
     - name: 李劼文集
       style: basic
       url: http://blog.bnn.co/hero/lijie/
+      
+    - name: 刘晓波文集
+
+      style: basic
+
+      url: https://blog.bnn.co/hero/liuxb/
 
     - name: ACL4
       style: basic
@@ -486,7 +493,7 @@
       style: black
       url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
 
-    - name: 福音中国
+    - name: 💒福音中国
       style: basic
       url: http://pt.fuyinchina.com/m/
 
@@ -498,10 +505,4 @@
       style: orange
       url: https://www.apkmirror.com
       
-    - name: 刘晓波文集
-
-      style: basic
-
-      url: https://blog.bnn.co/hero/liuxb/
-
   
