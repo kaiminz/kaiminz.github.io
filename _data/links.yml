@@ -446,7 +446,7 @@
 
     - name: 博谈网
       style: basic
-      url: http://botanwang.com/content/
+      url: https://botanwang.com/
 
     - name: ☁天翼云
       style: blue
