@@ -398,11 +398,11 @@
       style: blue
       url: https://www.aliyundrive.com/sign/in
       
-    - name: 📖李劼文集
+    - name: 🛠📖李劼文集
       style: basic
       url: http://blog.bnn.co/hero/lijie/
       
-    - name: 📖刘晓波文集
+    - name: 🛠📖刘晓波文集
 
       style: basic
 
@@ -436,7 +436,7 @@
       style: grey
       url: http://www.yxssp.com/
 
-    - name: 🛠️一个木函
+    - name: 🛠一个木函
       style: basic
       url: https://web.woobx.cn/
       
@@ -474,7 +474,7 @@
       style: basic
       url: https://www.sojson.com/web/img.html
       
-    - name: 🛠️工具帮
+    - name: 🛠工具邦
 
       style: basic
 
