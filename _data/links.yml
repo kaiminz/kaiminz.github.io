@@ -381,7 +381,7 @@
       url: https://www.icloud.com/
 
     - name: 📩Yeah邮箱
-      style: orange
+      style: basic
       url: http://mail.yeah.net/
 
     - name: Whoer
@@ -398,11 +398,11 @@
       style: blue
       url: https://www.aliyundrive.com/sign/in
       
-    - name: 李劼文集
+    - name: 📖李劼文集
       style: basic
       url: http://blog.bnn.co/hero/lijie/
       
-    - name: 刘晓波文集
+    - name: 📖刘晓波文集
 
       style: basic
 
@@ -436,7 +436,7 @@
       style: grey
       url: http://www.yxssp.com/
 
-    - name: 一个木函
+    - name: 🛠️一个木函
       style: basic
       url: https://web.woobx.cn/
       
@@ -462,7 +462,7 @@
 
   - name: 杂 项
     links:
-    - name: 今日热榜
+    - name: 🔥今日热榜
       style: teal
       url: http://tophub.today/
 
@@ -470,9 +470,15 @@
       style: basic
       url: http://bbs.cloud.icybee.cn/
 
-    - name: 传图识色
+    - name: 🌈传图识色
       style: basic
       url: https://www.sojson.com/web/img.html
+      
+    - name: 🛠️工具帮
+
+      style: basic
+
+      url: https://cn.piliapp.com
 
     - name: 📬微软邮箱
       style: basic
@@ -492,7 +498,7 @@
       style: black
       url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
 
-    - name: 💒福音中国
+    - name: 💒福音中国†
       style: basic
       url: http://pt.fuyinchina.com/m/
 
