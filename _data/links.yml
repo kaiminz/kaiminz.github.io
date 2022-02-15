@@ -494,10 +494,10 @@
       style: black
       url: https://apps.apple.com/cn/app/id1115232927
 
-    - name: 论坛APP
+    - name: GooglePlay
       icon: google play
       style: black
-      url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
+      url: https://play.google.com/
 
     - name: 💒福音中国†
       style: basic
