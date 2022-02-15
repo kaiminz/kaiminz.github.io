@@ -466,9 +466,10 @@
       style: teal
       url: http://tophub.today/
 
-    - name: 游客版论坛
+    - name: Google Keep
+      icon: google keep
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: https://keep.google.com/
 
     - name: 🌈传图识色
       style: basic
