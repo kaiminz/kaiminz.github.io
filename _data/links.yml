@@ -489,12 +489,12 @@
       style: yellow
       url: https://teracloud.jp/en/modules/mypage/usage/
       
-    - name: 论坛APP
-      icon: app store
+    - name: Myfq
+      icon: github
       style: black
-      url: https://apps.apple.com/cn/app/id1115232927
+      url: https://github.com/zhukm/fq
 
-    - name: GooglePlay
+    - name: G-Play
       icon: google play
       style: black
       url: https://play.google.com/
