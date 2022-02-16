@@ -398,14 +398,12 @@
       style: blue
       url: https://www.aliyundrive.com/sign/in
       
-    - name: 📖李劼文集
+    - name: 📖李 劼文集
       style: basic
       url: http://blog.bnn.co/hero/lijie/
       
     - name: 📖刘晓波文集
-
       style: basic
-
       url: https://blog.bnn.co/hero/liuxb/
 
     - name: ACL4
@@ -466,7 +464,7 @@
       style: teal
       url: http://tophub.today/
 
-    - name: Google Keep
+    - name: Keep
       icon: google keep
       style: basic
       url: https://keep.google.com/
@@ -489,12 +487,12 @@
       style: yellow
       url: https://teracloud.jp/en/modules/mypage/usage/
       
-    - name: Myfq
+    - name: Mygit
       icon: github
       style: black
       url: https://github.com/zhukm/fq
 
-    - name: G-Play
+    - name: Gplay
       icon: google play
       style: black
       url: https://play.google.com/
@@ -502,6 +500,11 @@
     - name: 💒福音中国†
       style: basic
       url: http://pt.fuyinchina.com/m/
+      
+    - name: Fast
+      icon: apple app
+      style: red
+      url: https://fast.com/
 
     - name: Apkmirror
       style: orange
