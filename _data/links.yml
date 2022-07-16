@@ -400,11 +400,11 @@
       
     - name: 📖李 劼文集
       style: basic
-      url: http://blog.bnn.co/hero/lijie/
+      url: http://45.35.61.42/hero/lijie/
       
     - name: 📖刘晓波文集
       style: basic
-      url: https://blog.bnn.co/hero/liuxb/
+      url: https://45.35.61.42/hero/liuxb/
 
     - name: ACL4
       style: basic
