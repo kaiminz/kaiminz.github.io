@@ -245,9 +245,6 @@
       style: basic
       url: https://cn.udacity.com/
 
-    - name: ✞赞美诗✞
-      style: black
-      url: https://www.zanmeishige.com/
 
   - name: 娱 乐
     links:
@@ -501,10 +498,9 @@
       style: basic
       url: http://wangwusiwj.blogspot.com/?m=1
       
-    - name: Fast
-      icon: apple app
-      style: red
-      url: https://fast.com/
+    - name: ✞赞美诗✞
+      style: blue 
+      url: https://www.zanmeishige.com/
 
     - name: Apkmirror
       style: orange
