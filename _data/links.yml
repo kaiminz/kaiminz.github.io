@@ -31,9 +31,9 @@
       style: basic
       url: http://www.dangdang.com/
 
-    # - name: 严选
-    #   style: basic
-    #   url: http://you.163.com/
+    - name: 严选
+      style: basic
+      url: http://you.163.com/
 
     - name: UNIQLO
       style: red
