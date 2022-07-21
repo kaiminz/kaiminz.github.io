@@ -302,13 +302,13 @@
       style: blue
       url: http://wanwansub.com/node/139
 
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
+    - name: NEW
+      style: basic
+      url: https://newzmz.com/tvslist.html
 
-    # - name: 电波
-    #   style: basic
-    #   url: http://dbfansub.com/
+    - name: 阿哥
+      style: orange
+      url: https://agmov.com/
 
     - name: 猪猪
       style: purple
@@ -318,13 +318,9 @@
       style: basic
       url: https://www.tokyonothot.com/
 
-    - name: 追新番
-      style: yellow
-      url: http://www.zhuixinfan.com/
-
-    # - name: 幻樱
-    #   style: pink
-    #   url: http://www.hysub.net/
+     - name: 幻樱
+       style: pink
+       url: http://www.hysub.net/
 
     - name: 斗鱼
       style: orange
