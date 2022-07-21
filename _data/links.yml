@@ -132,9 +132,9 @@
       style: basic
       url: https://www.tianyancha.com/
 
-    - name: 稿定设计
-      style: basic
-      url: https://www.gaoding.com/
+   # - name: 稿定设计
+   #   style: basic
+   #   url: https://www.gaoding.com/
 
     #- name: MacWk
     #  style: basic
