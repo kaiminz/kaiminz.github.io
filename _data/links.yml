@@ -252,10 +252,6 @@
       style: basic
       url: https://youku.com/
 
-    # - name: 土豆
-    #   style: basic
-    #   url: https://tudou.com/
-
     - name: Youtube
       icon: youtube red
       style: basic
@@ -268,6 +264,10 @@
     - name: 芒果
       style: orange
       url: http://mgtv.com/
+
+    - name: 咪咕视频
+      style: pink
+      url: https://pink.miguvideo.com/
 
     - name: 腾讯视频
       style: basic
