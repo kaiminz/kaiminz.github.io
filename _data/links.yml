@@ -184,6 +184,10 @@
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
+  
+    - name: CSDN
+      style: pink 
+      url: https://www.csdn.net/  
 
   - name: 学 习
     links:
@@ -233,10 +237,6 @@
       style: basic
       url: https://cn.udacity.com/
       
-    - name: CSDN
-      style: basic
-      url: https://www.csdn.net/  
-
   - name: 娱 乐
     links:
     - name: ⢰优酷
@@ -359,6 +359,10 @@
     - name: ACL4
       style: basic
       url: https://acl4ssr.netlify.app/
+  
+    - name: 脚本大全
+      style: basic
+      url: https://greasyfork.org/zh-CN
 
   - name: 典 藏
     links:
@@ -416,10 +420,6 @@
       style: orange
       url: https://www.apkmirror.com
 
-    - name: 脚本大全
-      style: basic
-      url: https://greasyfork.org/zh-CN
-
   - name: 杂 项
     links:
     - name: 🔥今日热榜
@@ -428,7 +428,7 @@
       
     - name: 网易邮箱
       icon: envelope red
-      style: basic
+      style: red
       url: http://email.163.com/
 
     - name: QQ邮箱
@@ -449,10 +449,6 @@
     - name: 📬微软邮箱
       style: basic
       url: https://outlook.live.com/owa/
-      
-    - name: 📩Yeah邮箱
-      style: basic
-      url: http://mail.yeah.net/
 
     - name: ⢭iCloud
       style: basic
@@ -488,5 +484,3 @@
       
 
       
-    
-  
