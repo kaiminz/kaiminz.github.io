@@ -1,18 +1,15 @@
 - categories:
   - name: 购 物
     links:
-    - name: 淘宝
-      icon: taobao red
+    - name：淘宝
       style: orange
       url: https://www.taobao.com/
 
-    - name: 天猫
-      icon: tmall red 
+    - name: 天猫 
       style: basic 
       url: https://www.tmall.com/
 
     - name: 京东
-      icon: jingdong yellow 
       style: basic
       url: https://www.jd.com/
 
