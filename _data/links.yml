@@ -2,14 +2,17 @@
   - name: 购 物
     links:
     - name: 淘宝
+      icon: taobao red
       style: orange
       url: https://www.taobao.com/
 
     - name: 天猫
-      style: red
+      icon: tmall red 
+      style: basic 
       url: https://www.tmall.com/
 
     - name: 京东
+      icon: jingdong yellow 
       style: basic
       url: https://www.jd.com/
 
@@ -366,13 +369,13 @@
 
   - name: 典 藏
     links:
-    - name: 📖李 劼文集
+    - name: 📖 书 格
       style: basic
-      url: http://45.35.61.42/hero/lijie/
+      url: https://new.shuge.org/
       
-    - name: 📖刘晓波文集
+    - name: 🎨 unsplash 
       style: basic
-      url: http://45.35.61.42/hero/liuxb/
+      url: https://unsplash.com/
       
     - name: 💒王五四
       style: basic
