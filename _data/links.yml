@@ -1,7 +1,7 @@
 - categories:
   - name: 购 物
     links:
-    - name： 淘宝
+    - name: 淘宝
       style: orange
       url: https://www.taobao.com/
 
