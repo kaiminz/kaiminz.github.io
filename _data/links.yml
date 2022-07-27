@@ -1,12 +1,12 @@
 - categories:
   - name: 购 物
     links:
-    - name：淘宝
+    - name： 淘宝
       style: orange
       url: https://www.taobao.com/
 
     - name: 天猫 
-      style: basic 
+      style: red 
       url: https://www.tmall.com/
 
     - name: 京东
