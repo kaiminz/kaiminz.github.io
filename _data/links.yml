@@ -6,7 +6,7 @@
       url: https://www.taobao.com/
 
     - name: 天猫 
-      style: red 
+      style: basic 
       url: https://www.tmall.com/
 
     - name: 京东
