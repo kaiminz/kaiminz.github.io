@@ -352,6 +352,14 @@
       style: basic
       url: https://jwcwx.cjlu.edu.cn/teacher/F2015
 
+    - name: 📖 Z-Library 
+      style: basic
+      url: https://zh.z-lib.org/
+
+    - name: 📖 LoreFree 
+      style: basic
+      url: https://ebook2.lorefree.com/
+    
     - name: Whoer
       style: basic
       url: https://whoer.net/zh
@@ -370,7 +378,7 @@
       style: basic
       url: https://new.shuge.org/
       
-    - name: 🎨 unsplash 
+    - name: 🎨 Unsplash 
       style: basic
       url: https://unsplash.com/
       
@@ -432,7 +440,7 @@
       url: http://email.163.com/
 
     - name: QQ邮箱
-      icon: qq black
+      icon: qq blue 
       style: basic
       url: https://mail.qq.com/
 
