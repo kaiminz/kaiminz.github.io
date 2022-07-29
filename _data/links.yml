@@ -405,6 +405,7 @@
       url: https://play.google.com/  
 
     - name: KiwiAPK
+      icon: github
       style: basic
       url: http://github.com/kiwibrowser/src.next/releases/
       
@@ -462,19 +463,19 @@
       style: basic
       url: https://www.icloud.com/  
 
-    - name: ☁Teracloud
+    - name: ☁️Teracloud
       style: yellow
       url: https://teracloud.jp/en/modules/mypage/usage/
       
-    - name: ☁天翼云
+    - name: ☁️天翼云
       style: blue
       url: https://h5.cloud.189.cn/home.html
       
-    - name: ☁阿里云
+    - name: ☁️阿里云
       style: blue
       url: https://www.aliyundrive.com/sign/in  
     
-    - name: ☁BOX
+    - name: ☁️BOX
       style: basic
       url: https://account.box.com/login
       
@@ -484,6 +485,7 @@
       url: https://github.com/zhukm/fq
 
     - name: Knavi
+      icon: github
       style: grey
       url: http://zhukm.github.io/
       
