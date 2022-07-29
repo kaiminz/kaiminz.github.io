@@ -88,11 +88,11 @@
       style: basic
       url: http://www.dianping.com/
       
-    - name: 🛠工具邦
+    - name: 🛠 工具邦
       style: basic
       url: https://cn.piliapp.com 
       
-    - name: 🛠一个木函
+    - name: ⚒ 一个木函
       style: basic
       url: https://ol.woobx.cn/
       
@@ -124,11 +124,11 @@
       style: basic
       url: https://www.tianyancha.com/
 
-    - name: OSCHINA
-      style: blue
+    - name: 🧰OSCHINA
+      style: basic
       url: https://tool.oschina.net/
 
-    - name: MSDN我告诉你
+    - name: ⡝MSDN我告诉你
       style: basic
       url: https://msdn.itellyou.cn/
 
