@@ -363,6 +363,10 @@
     - name: 📚 LoreFree 
       style: basic
       url: https://ebook2.lorefree.com/
+
+    - name: 📕鸠摩搜书
+      style: basic
+      url: https://www.jiumodiary.com/ 
     
     - name: Whoer
       style: basic
@@ -445,10 +449,10 @@
       style: basic
       url: https://mail.qq.com/
 
-    - name: 新浪邮箱
+    - name: Yandex 
       icon: envelope green 
       style: basic
-      url: https://mail.sina.com.cn/
+      url: https://yandex.com/
 
     - name: Gmail
       icon: google red
