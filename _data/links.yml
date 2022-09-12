@@ -389,6 +389,14 @@
     - name: 💒王五四
       style: basic
       url: http://wangwusiwj.blogspot.com/?m=1  
+    
+    - name: 李劼文集
+      style: basic
+      url: http://45.35.61.42/hero/lijie/
+
+    - name: 刘晓波文集
+      style: basic
+      url: http://45.35.61.42/hero/liuxb/  
 
     - name: Onedrive直链
       style: basic
