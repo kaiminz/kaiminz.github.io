@@ -313,10 +313,6 @@
       style: pink
       url: http://www.hysub.net/
 
-    - name: 斗鱼
-      style: orange
-      url: https://douyu.com/
-
 - categories:
   - name:  校 园
     links:
