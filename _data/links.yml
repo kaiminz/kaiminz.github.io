@@ -375,6 +375,10 @@
     - name: 脚本大全
       style: basic
       url: https://greasyfork.org/zh-CN
+    
+    - name: 学圣诗
+      style: basic
+      url: https://www.xueshengshi.com/
 
   - name: 典 藏
     links:
