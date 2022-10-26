@@ -366,11 +366,7 @@
     
     - name: Whoer
       style: basic
-      url: https://whoer.net/zh
-    
-    - name: 学圣诗
-      style: basic
-      url: https://www.xueshengshi.com/
+      url: https://whoer.net/zh   
 
   - name: 典 藏
     links:
@@ -425,6 +421,10 @@
       style: green 
       url: https://m.apkpure.com/cn/
       
+    - name: 学圣诗
+      style: basic
+      url: https://www.xueshengshi.com/
+
     - name: ✞赞美诗✞
       style: blue 
       url: https://www.zanmeishige.com/
