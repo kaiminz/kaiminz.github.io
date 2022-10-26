@@ -128,6 +128,14 @@
       style: basic
       url: https://msdn.itellyou.cn/
 
+    - name: ACL4
+      style: basic
+      url: https://acl4ssr.netlify.app/
+
+    - name: 脚本大全
+      style: basic
+      url: https://greasyfork.org/zh-CN
+
     - name: ☑稿定设计
       style: basic
       url: https://www.gaoding.com/
@@ -359,10 +367,6 @@
     - name: Whoer
       style: basic
       url: https://whoer.net/zh
-      
-    - name: 脚本大全
-      style: basic
-      url: https://greasyfork.org/zh-CN
     
     - name: 学圣诗
       style: basic
@@ -370,10 +374,6 @@
 
   - name: 典 藏
     links:
-    - name: ACL4
-      style: basic
-      url: https://acl4ssr.netlify.app/
-
     - name: 🎨 Unsplash 
       style: basic
       url: https://unsplash.com/
