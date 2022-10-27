@@ -132,7 +132,8 @@
       style: basic
       url: https://acl4ssr.netlify.app/
 
-    - name: </>脚本大全
+    - name: 脚本大全
+      icon: code red
       style: basic
       url: https://greasyfork.org/zh-CN
 
