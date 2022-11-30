@@ -353,9 +353,9 @@
       style: basic
       url: https://jwcwx.cjlu.edu.cn/teacher/F2015
 
-    - name: 📖 Z-Library 
+    - name: 📖 Bookmarks 
       style: basic
-      url: https://zh.z-lib.org/
+      url: ktllq://bookmarks
 
     - name: 📚 LoreFree 
       style: basic
