@@ -422,11 +422,11 @@
       style: green 
       url: https://m.apkpure.com/cn/
       
-    - name: 学圣诗
+    #- name: 学圣诗
       style: basic
       url: https://www.xueshengshi.com/
 
-    - name: ✞赞美诗✞
+    #- name: ✞赞美诗✞
       style: blue 
       url: https://www.zanmeishige.com/
 
@@ -468,9 +468,9 @@
       style: basic
       url: https://www.icloud.com/  
 
-    - name: ☁️Teracloud
+    - name: ☁️ InfiniCloud cloud
       style: yellow
-      url: https://teracloud.jp/en/modules/mypage/usage/
+      url: https://infini-cloud.net/en/modules/mypage/usage/
       
     - name: ☁️天翼云
       style: blue
