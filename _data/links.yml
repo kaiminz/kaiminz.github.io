@@ -426,9 +426,9 @@
      #  style: basic
      #  url: https://www.xueshengshi.com/
 
-     #- name: ✞赞美诗✞
-     #  style: blue 
-     #  url: https://www.zanmeishige.com/
+    - name: XDA
+      style: blue 
+      url: https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/
 
     - name: Apkmirror
       style: orange
