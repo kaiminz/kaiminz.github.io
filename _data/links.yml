@@ -353,9 +353,10 @@
       style: basic
       url: https://jwcwx.cjlu.edu.cn/teacher/F2015
 
-    - name: 📖 Z-lib 
+    - name: NecoBox 
+      icon: github
       style: basic
-      url: https://zh.z-lib.org/
+      url: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
     - name: 📚 LoreFree 
       style: basic
@@ -414,7 +415,7 @@
       style: pink
       url: https://www.htcp.net/
 
-    - name: 博谈网
+    - name: ✨博谈网
       style: basic
       url: https://botanwang.com/
 
@@ -422,11 +423,11 @@
       style: green 
       url: https://m.apkpure.com/cn/
       
-     #- name: 学圣诗
-     #  style: basic
-     #  url: https://www.xueshengshi.com/
+    - name: TencentCFD
+      style: basic
+      url: https://www.tencent.cfd/#/dashboard
 
-    - name: XDA
+    - name: ♨XDAforum
       style: blue 
       url: https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/
 
