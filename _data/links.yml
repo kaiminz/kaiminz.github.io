@@ -398,7 +398,7 @@
       
     - name: Keep
       icon: google keep
-      style: basic
+      style: yellow
       url: https://keep.google.com/
       
     - name: Gplay
@@ -427,7 +427,7 @@
       style: basic
       url: https://www.tencent.cfd/#/dashboard
 
-    - name: ♨XDAforum
+    - name: ♨XDA
       style: blue 
       url: https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/
 
