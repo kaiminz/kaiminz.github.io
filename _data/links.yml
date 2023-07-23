@@ -425,7 +425,7 @@
       
     - name: ✈️TencentCFD
       style: basic
-      url: https://www.tencent.cfd/#/dashboard
+      url: https://w1.tencent.sbs/index.php#/dashboard
 
     - name: ♨XDA
       style: blue 
