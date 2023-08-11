@@ -341,13 +341,15 @@
       style: brown
       url: https://lib.cjlu.edu.cn/
 
-    - name: 知网1
+    - name: KiwiAPK
+      icon: github
       style: basic
-      url: http://zgjldx.check.cnki.net/
+      url: http://github.com/kiwibrowser/src.next/releases/
 
-    - name: 知网2
-      style: yellow
-      url: http://check7.cnki.net/pmlc/
+    - name: Mygit
+      icon: github
+      style: black
+      url: https://github.com/zhukm/fq
       
     - name: 校历
       style: basic
@@ -404,12 +406,7 @@
     - name: Gplay
       icon: google play
       style: black
-      url: https://play.google.com/  
-
-    - name: KiwiAPK
-      icon: github
-      style: basic
-      url: http://github.com/kiwibrowser/src.next/releases/
+      url: https://play.google.com/ 
       
     - name: 云梦小站
       style: pink
@@ -485,10 +482,10 @@
       style: blue
       url: https://account.box.com/login
       
-    - name: Mygit
-      icon: github
-      style: black
-      url: https://github.com/zhukm/fq
+    # - name: Mygit
+    #   icon: github
+    #   style: black
+    #   url: https://github.com/zhukm/fq
 
     - name: Knavi
       icon: github
