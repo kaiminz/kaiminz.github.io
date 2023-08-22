@@ -351,15 +351,15 @@
       style: black
       url: https://github.com/zhukm/fq
       
-    - name: 校历
-      style: basic
-      url: https://jwcwx.cjlu.edu.cn/teacher/F2015
-
     - name: NecoBox 
       icon: github
       style: basic
       url: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
+    - name: Z-Lib
+      style: basic
+      url: https://zh.singlelogin.re/login.php
+    
     - name: 📚 LoreFree 
       style: basic
       url: https://ebook2.lorefree.com/
