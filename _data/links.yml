@@ -114,7 +114,7 @@
     - name: 彩云天气
       icon: cloud olive
       style: basic
-      url: http://caiyunapp.com/map
+      url: http://caiyunapp.com/h5/
 
     - name: 👀天眼查
       style: basic
