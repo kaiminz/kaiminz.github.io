@@ -321,14 +321,6 @@
       style: green
       url: https://www.cjlu.edu.cn/
 
-    - name: 教务系统
-      style: basic
-      url: https://jwxt.cjlu.edu.cn/xtgl/login_slogin.html
-
-    - name: 经管教务
-      style: purple
-      url: http://emtdms.cjlu.edu.cn/
-
     - name: 📚 书 格
       style: basic
       url: https://new.shuge.org/
@@ -382,14 +374,6 @@
       style: basic
       url: http://wangwusiwj.blogspot.com/?m=1  
     
-    - name: 李劼文集
-      style: basic
-      url: http://45.35.61.42/hero/lijie/
-
-    - name: 刘晓波文集
-      style: basic
-      url: http://45.35.61.42/hero/liuxb/  
-
     - name: Onedrive直链
       style: basic
       url: https://onedrive.gimhoy.com/
