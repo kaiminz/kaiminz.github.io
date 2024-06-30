@@ -325,9 +325,10 @@
       style: basic
       url: https://new.shuge.org/
 
-    - name: 📧CJLU邮箱
+    - name: 📧 Dropbox邮箱
+      icon:  dropbox green
       style: blue
-      url: https://mail.cjlu.edu.cn/
+      url: https://www.dropbox.com/home
 
     - name: 图书馆
       style: brown
