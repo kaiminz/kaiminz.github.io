@@ -325,9 +325,9 @@
       style: basic
       url: https://new.shuge.org/
 
-    - name: 📧 Dropbox邮箱
+    - name: Dropbox
       icon:  dropbox green
-      style: blue
+      style: basic
       url: https://www.dropbox.com/home
 
     - name: 图书馆
