@@ -349,6 +349,11 @@
       style: basic
       url: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
+    - name: Patches
+      icon: github
+      style: black
+      url: https://github.com/inotia00/revanced-patches
+      
     - name: Z-Library
       style: basic
       url: https://zh.singlelogin.re/login.php
