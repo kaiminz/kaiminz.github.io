@@ -344,10 +344,10 @@
       style: black
       url: https://github.com/zhukm/fq
       
-    - name: NecoBox 
+    - name: MahsaNG 
       icon: github
       style: basic
-      url: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+      url: https://github.com/GFW-knocker/MahsaNG
 
     - name: Patches
       icon: github
