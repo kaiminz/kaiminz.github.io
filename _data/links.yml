@@ -326,7 +326,7 @@
       url: https://new.shuge.org/
 
     - name: Dropbox
-      icon:  dropbox green
+      icon:  dropbox blue
       style: basic
       url: https://www.dropbox.com/home
 
@@ -334,10 +334,10 @@
       style: brown
       url: https://lib.cjlu.edu.cn/
 
-    - name: KiwiAPK
+    - name: V2rayNG
       icon: github
       style: basic
-      url: http://github.com/kiwibrowser/src.next/releases/
+      url: https://github.com/2dust/v2rayNG/releases
 
     - name: Mygit
       icon: github
