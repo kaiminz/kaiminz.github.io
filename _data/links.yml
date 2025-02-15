@@ -325,11 +325,11 @@
       style: basic
       url: https://new.shuge.org/
 
-    - name: Dropbox
-      icon:  dropbox blue
+    - name: 计量邮箱
+      icon:  envelope blue
       style: basic
-      url: https://www.dropbox.com/home
-
+      url: https://mail.cjlu.edu.cn/
+      
     - name: 图书馆
       style: brown
       url: https://lib.cjlu.edu.cn/
@@ -438,10 +438,10 @@
       style: basic
       url: https://mail.qq.com/
 
-    - name: 计量邮箱 
-      icon: envelope blue 
+    - name: Dropbox 
+      icon: dropbox blue 
       style: basic
-      url: https://mail.cjlu.edu.cn/
+      url: https://www.dropbox.com/home
 
     - name: Gmail
       icon: google red
